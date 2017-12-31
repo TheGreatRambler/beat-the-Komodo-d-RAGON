@@ -16,8 +16,7 @@ For Visual Studio, set up developer console and type:
 ```shell
 cl /EHsc Source.cpp item.h /link /out:lifethegame.exe
 ```
-And run the `exe` generated.
-(Or just create a new Visual Studio project, input both files, and run the program)
+And run the `exe` generated. (Or just create a new Visual Studio project, input both files, and run the program)
 
 ## Playing
 
