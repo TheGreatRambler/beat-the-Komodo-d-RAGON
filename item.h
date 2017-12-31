@@ -1,4 +1,5 @@
 #pragma once
+#pragma once
 #include <string>
 
 class item {
@@ -47,7 +48,7 @@ class clothing : public item {
 		return 1;
 	}
 };
-class pet: public item {
+class pet : public item {
 	virtual std::string getType() {
 		return "pet";
 	}
@@ -347,7 +348,7 @@ public:
 		return 50;
 	}
 	virtual int getDamage() {
-		return 10;
+		return 100;
 	}
 	virtual int id() {
 		return 11;
