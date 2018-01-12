@@ -20,7 +20,7 @@ And run the `exe` generated. (Or just create a new Visual Studio project, input 
 
 ### Or...
 
-Just run the exe in the `dist` folder. ¯\\_(ツ)_/¯
+Just run the exe in the `dist` folder. `¯\_(ツ)_/¯`
 
 ## Playing
 
