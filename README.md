@@ -20,7 +20,7 @@ And run the `exe` generated. (Or just create a new Visual Studio project, input 
 
 ### Or...
 
-Just run the exe in the `dist` folder. `¯\_(ツ)_/¯`
+Just run the `exe` in the `dist` folder. `¯\_(ツ)_/¯`
 
 ## Playing
 
@@ -28,4 +28,4 @@ Start by typing `help` to learn the commands then have fun! I'll let you find ou
 
 ## Savefiles
 
-The file `save.txt` is a savefile for the game that is very overpowered. You can use it or any other savefiles by putting it in the same directory as the `lifethegame.exe` and running the `open` command in the game. Currently, items are buggy, so you might lose your items.
+The file `save.txt` is a savefile for the game that is very overpowered. You can use it or any other savefiles by putting it in the same directory as the `lifethegame.exe` and running the `open` command in the game. You can save your own savefiles with `save`. Currently, items are buggy, so you might lose your items.
