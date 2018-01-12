@@ -18,6 +18,10 @@ cl /EHsc Source.cpp item.h /link /out:lifethegame.exe
 ```
 And run the `exe` generated. (Or just create a new Visual Studio project, input both files, and run the program)
 
+### Or...
+
+Just run the exe in the `dist` folder. ¯\_(ツ)_/¯
+
 ## Playing
 
 Start by typing `help` to learn the commands then have fun! I'll let you find out the secrets on your own
